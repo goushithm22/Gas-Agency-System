@@ -41,8 +41,11 @@ Follow these steps to **set up and run** the Gas Agency Management System on you
 git clone https://github.com/goushithm22/Gas-Agency-System.git
 cd Gas-Agency-System
 
+
 Navigate to the project folder and install the required dependencies:
+```sh
 npm install
+```
 
 3️⃣ Set Up Firebase
 Go to Firebase Console.
